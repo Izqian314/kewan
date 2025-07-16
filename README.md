@@ -8,3 +8,12 @@ dan mendeteksi dgn memberi sebuah foto, apakah hewan ini bisa dijadikan pelihara
 didalam situ akan kutaro jenis jenis hewan yg bisa di piara
 dan mendeteksi hewan, mau itu burung, hewan darat, dll
 mungkin bakal ada web lain :v 
+
+what i need :
+-Eco-calculator
+- Dasar-dasar desain web
+- HTML + CSS
+- Flask templat
+ - Jinja variabel
+ - Perutean web
+- GitHub + IDE
